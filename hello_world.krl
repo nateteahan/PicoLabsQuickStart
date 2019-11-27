@@ -20,3 +20,4 @@ The first ruleset for the Quickstart
     select when echo hello
     send_directive("say", {"something": "Hello World"})
   }
+}
